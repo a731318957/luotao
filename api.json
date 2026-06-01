@@ -1,7 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
     "sites": [
         {
             "key": "豆瓣",
@@ -1656,7 +1656,7 @@
         },
       
         {
-            "name": "🌿四季港澳直播",
+            "name": "🌿四季弯弯直播",
             "type": 0,
             "url": "http://4gtv.158.qzz.io/4gtv.m3u",
             "playerType": 2,
