@@ -61,6 +61,15 @@
             "api": "csp_Hxq",
             "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
+      {
+      "key": "公众号",
+      "name": "☀移动🔹4k源",
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/YD.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+        },
         {
             "key": "听心99",
             "name": "听心｜APP",
