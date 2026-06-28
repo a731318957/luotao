@@ -442,6 +442,15 @@
             "filterable": 1
         },
         {
+            "key": "ikun",
+            "name": "爱坤┃资源",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "爱看机器人",
             "name": "综合丨采集",
             "type": 3,
@@ -886,6 +895,24 @@
             "filterable": 1
         },
         {
+            "key": "🔞七天资源🌈",
+            "name": "🔞丨七天",
+            "type": 1,
+            "api": "https://8day.icu/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "红桃🍑",
+            "name": "🔞丨红桃",
+            "type": 1,
+            "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "大师兄影视",
             "name": "师兄丨影视",
             "type": 3,
@@ -894,15 +921,6 @@
             "ext": {
                 "分类url": "https://www.belitv.com/"
             }
-        },
-        {
-            "key": "移动",
-            "name": "移动丨免扫",
-            "type": 3,
-            "jar": "./jar/移动免扫.jar",
-            "api": "csp_YDjisu",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "MTV",
@@ -983,18 +1001,11 @@
             "key": "聚合短剧",
             "name": "聚合丨短剧",
             "type": 3,
-            "api": "./js/DDjhdj.js"
-        },
-        {
-            "name": "嗷呜丨短剧",
-            "key": "DjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
+            "api": "./js/DDjhdj.js",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "short_play",
-            "jar": "./jar/aowu.png"
+            "genre": "shortdrama"
         },
         {
             "name": "豪堪丨短剧",
