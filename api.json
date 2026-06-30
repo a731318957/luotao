@@ -24,6 +24,26 @@
             }
         },
         {
+            "name": "嗷呜丨配置",
+            "key": "MyConfig",
+            "type": 3,
+            "jar": "./jar/aowu.png",
+            "api": "csp_AAConfigAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "name": "光鸭丨云盘",
+            "key": "MyGuangya",
+            "type": 3,
+            "jar": "./jar/aowu.png",
+            "api": "csp_MyGuangyaAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "本地",
             "name": "本地｜视频",
             "type": 3,
